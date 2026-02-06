@@ -1,0 +1,5 @@
+{
+  "name": "Laravel Security & IP Restriction POC",
+  "description": "A proof-of-concept module for Laravel demonstrating IP-based login logging and restriction. Includes an interactive React-based simulator to test the backend logic in the browser.",
+  "requestFramePermissions": []
+}
